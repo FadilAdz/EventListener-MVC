@@ -1,6 +1,6 @@
 # Project OOP Berbasis MVC
 ## $${\color{lightblue}Link-Penjelasan-Youtube}$$
-[Link Penjelasan YouTube](https://youtu.be)
+[Link Penjelasan Proses Pembuatan Program | YouTube]([https://youtu.be](https://youtu.be/_mrrsYQ3Gzk))
 
 <br> 
 
